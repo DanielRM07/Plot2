@@ -1,0 +1,25 @@
+Goiânia,1437237,625,699
+Brasília,1094325,835,554
+Aparecida de Goiânia,527796,625,725
+Anápolis,398869,669,635
+Uberlândia,706597,779,1066
+Águas Lindas de Goiás,225693,781,544
+Rio Verde,225696,365,880
+Luziânia,209129,838,630
+Valparaíso de Goiás,198861,821,600
+Uberaba,340277,826,1201
+Senador Canedo,155635,650,702
+Trindade,142431,599,691
+Formosa,123684,928,514
+Araguari,118361,791,1022
+Itumbiara,108135,629,979
+Catalão,114427,826,941
+Ituiutaba,105818,592,1071
+Jataí,106139,242,900
+Planaltina,105970,882,526
+Novo Gama,104873,815,595
+Cristalina,61279,888,713
+Posse,36486,1089,283
+Porangatu,44216,649,176
+Quirinópolis,49489,437,981
+Goianésia,68936,650,477

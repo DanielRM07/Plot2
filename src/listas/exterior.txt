@@ -1,0 +1,12 @@
+Izium,329,158
+Pavlorad,110,620
+Kamianka,322,1188
+Kamianka,296,1261
+Berdiansk,324,1462
+Taganrog,811,1351
+Rostov,963,979
+Khrustalnyi,1004,721
+Alchevsk,823,563
+Lysychasnk,727,283
+Kremina,619,130
+Borova,473,32
